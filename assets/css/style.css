@@ -1,0 +1,24 @@
+:root {
+    --cyan-process: #30bcedff;
+    --blue-ncs: #4087a9ff;
+    --independence: #4f5165ff;
+    --dark-liver: #474044ff;
+    --charleston-green: #293132ff;
+    --chocolate-web: #d96c06ff;
+    --carrot-orange: #f18f01ff;
+    --wheat: #ead2acff;
+    --papaya-whip: #ffefd3ff;
+  }
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+    color: var(--papaya-whip);
+    font-family: 'Varela Round', 'sans-serif';
+}
+
+body {
+    background-color: var(--charleston-green);
+}
