@@ -100,7 +100,7 @@ aside {
     right: 0;
     color: var(--charleston-green);
     width: 100%;
-    height: 100%;
+    height: 90%;
 }
 
 .postTitle {
@@ -157,6 +157,7 @@ aside {
     bottom: -60px;
     transition: 0.6s;
     transition-property: bottom;
+    opacity: 0.8;
 
 }
 
