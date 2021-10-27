@@ -8,6 +8,8 @@ This is a design mockup for an outdoors blog, created with custom CSS, Bulma in-
 
 ![cards](blog-responsive.gif)
 
+![mobile](blog-mobile.gif)
+
 ### SCREENSHOT
 
 ![screenshot](blog-style.png)
