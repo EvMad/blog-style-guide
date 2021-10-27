@@ -195,14 +195,14 @@ aside {
 }
 
 @media screen and(min-width: 768px){
-    aside .menu-list {
+     .menu-list {
         flex-direction: row;
     }
 }
 
 
 @media screen and(min-width: 562px){
-    aside .menu-list {
+     .menu-list {
         flex-direction: row;
     }
 }
