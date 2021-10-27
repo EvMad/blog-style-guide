@@ -26,6 +26,7 @@ body {
 .container {
     margin: 30px;
     height: 100vh;
+    width: 90%;
     background-color: var(--charleston-green);
 }
 
