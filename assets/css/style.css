@@ -22,3 +22,49 @@
 body {
     background-color: var(--charleston-green);
 }
+
+.container {
+    margin: 30px;
+    height: 100vh;
+    background-color: var(--charleston-green);
+}
+
+.body, .menu-list li a {
+    color: var(--papaya-whip)
+}
+
+aside {
+  padding: 15px;
+}
+
+
+.title, .menu-label {
+  color: var(--cyan-process);
+  font-family: 'Pacifico', 'cursive';
+}
+
+.title {
+    font-size: 40px;
+}
+
+.subtitle {
+  font-family: 'Pacifico', 'cursive';
+}
+
+
+
+.content h2 {
+    color: var(--cyan-process);
+
+}
+
+.row {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.postContent {
+    color: var(--charleston-green);
+}
