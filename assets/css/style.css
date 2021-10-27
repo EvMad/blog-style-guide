@@ -193,3 +193,16 @@ aside {
 .more .icons a:not(:last-child) i{
     margin-right: 20px;
 }
+
+@media screen and(min-width: 768px){
+    aside {
+        flex-direction: row;
+    }
+}
+
+
+@media screen and(min-width: 562px){
+    aside {
+        flex-direction: row;
+    }
+}
